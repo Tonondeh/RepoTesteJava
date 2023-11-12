@@ -1,0 +1,18 @@
+package javaInicial;
+
+public class OlaMundo {
+
+	public static void main(String[] args) {
+		
+		System.out.println("Ola Mundo!!! Seeja bem-vinda familia 69 ao mundo Java");
+		
+		String nome = "Andre Tonon";
+		int idade = 36;
+		double altura = 1.72;
+		
+		System.out.println("\n\t Ola "+nome+" voce tem: "+idade+" e mede: "+altura+" ");
+		
+		
+	}
+
+}

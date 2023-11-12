@@ -1,0 +1,11 @@
+package javaInicial;
+
+public class OlaMundo {
+
+	public static void main(String[] args) {
+		
+		System.out.println("Ola Mundo!!! Seeja bem-vinda familia 69 ao mundo Java");
+
+	}
+
+}

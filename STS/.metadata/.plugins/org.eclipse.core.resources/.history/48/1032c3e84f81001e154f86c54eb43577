@@ -1,0 +1,23 @@
+package javaInicial;
+
+import java.util.Scanner;
+
+public class Exercicios {
+
+	public static void main(String[] args) {
+		
+		double salario, abono, novoSalario;
+		
+		Scanner leia = new Scanner (System.in);
+
+		System.out.println("\nDigite o salario");
+		salario = leia.nextDouble();
+		System.out.println("\nDigite o Abono");
+		abono = leia.nextDouble();
+		System.out.println("\nNovo salario é:");
+		novoSalario = salario + abono;
+		
+		
+	}
+
+}
